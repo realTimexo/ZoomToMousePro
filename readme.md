@@ -17,7 +17,7 @@
 
 ---
 
-> **✨ Modernized & Updated:** This is an enhanced fork optimized and updated for the latest **OBS Studio** versions by **Timww**, originally built by **BlankSourceCode**.
+> **✨ Modernized & Updated:** This is an enhanced fork optimized and updated for the latest **OBS Studio** versions by **Timexo**, originally built by **BlankSourceCode**.
 
 ---
 
