@@ -80,7 +80,7 @@ You can fine-tune every parameter directly from the OBS Scripts window:
 * **Inspiration:** [tryptech](https://github.com/tryptech)'s [obs-zoom-and-follow](https://github.com/tryptech/obs-zoom-and-follow)
 * **Updated & Maintained for Modern OBS:** **Timexo**
 
----
+[---](https://odyssey-guessr.lovable.app)
 
 <p align="center">
   <a href="https://timexo.gumroad.com/coffee" target="_blank">
